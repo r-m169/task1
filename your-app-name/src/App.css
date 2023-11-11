@@ -1,0 +1,13 @@
+*{
+  background-color: whitesmoke;
+
+}
+.App {
+  text-align: center;
+}
+h1{
+  color: blue;
+}
+span{
+  color: rgb(189, 189, 243);
+}
